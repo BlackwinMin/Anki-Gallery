@@ -17,6 +17,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>986</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
@@ -27,6 +29,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>987</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>KeyCode</key>
 						<integer>8</integer>
 						<key>MacroActionType</key>
@@ -71,6 +75,8 @@
 						<integer>990</integer>
 						<key>DeviceID</key>
 						<string>SOUNDEFFECTS</string>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>PlaySound</string>
 						<key>Path</key>
@@ -81,6 +87,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>991</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>JustDisplay</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -94,7 +102,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/Anki.app</string>
 				<key>ModificationDate</key>
-				<real>634987338.46265101</real>
+				<real>744721737.54716599</real>
 				<key>Name</key>
 				<string>Remove Card_all</string>
 				<key>Triggers</key>
@@ -163,6 +171,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>972</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
@@ -173,6 +183,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>973</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>KeyCode</key>
 						<integer>8</integer>
 						<key>MacroActionType</key>
@@ -217,6 +229,8 @@
 						<integer>976</integer>
 						<key>DeviceID</key>
 						<string>SOUNDEFFECTS</string>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>PlaySound</string>
 						<key>Path</key>
@@ -227,6 +241,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>977</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>JustDisplay</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -240,7 +256,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/Anki.app</string>
 				<key>ModificationDate</key>
-				<real>634987333.70959401</real>
+				<real>744721726.78201997</real>
 				<key>Name</key>
 				<string>Remove Card_3</string>
 				<key>Triggers</key>
@@ -309,6 +325,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>966</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
@@ -319,6 +337,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>967</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>KeyCode</key>
 						<integer>8</integer>
 						<key>MacroActionType</key>
@@ -363,6 +383,8 @@
 						<integer>970</integer>
 						<key>DeviceID</key>
 						<string>SOUNDEFFECTS</string>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>PlaySound</string>
 						<key>Path</key>
@@ -373,6 +395,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>971</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>JustDisplay</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -386,7 +410,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/Anki.app</string>
 				<key>ModificationDate</key>
-				<real>634987322.12128794</real>
+				<real>744721718.93710303</real>
 				<key>Name</key>
 				<string>Remove Card_2</string>
 				<key>Triggers</key>
@@ -455,6 +479,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>960</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>SetVariableToText</string>
 						<key>Text</key>
@@ -465,6 +491,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>961</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>KeyCode</key>
 						<integer>8</integer>
 						<key>MacroActionType</key>
@@ -509,6 +537,8 @@
 						<integer>964</integer>
 						<key>DeviceID</key>
 						<string>SOUNDEFFECTS</string>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>MacroActionType</key>
 						<string>PlaySound</string>
 						<key>Path</key>
@@ -519,6 +549,8 @@
 					<dict>
 						<key>ActionUID</key>
 						<integer>965</integer>
+						<key>IsDisclosed</key>
+						<false/>
 						<key>JustDisplay</key>
 						<false/>
 						<key>MacroActionType</key>
@@ -532,7 +564,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/Anki.app</string>
 				<key>ModificationDate</key>
-				<real>634987318.90993798</real>
+				<real>744721714.86450601</real>
 				<key>Name</key>
 				<string>Remove Card_1</string>
 				<key>Triggers</key>
